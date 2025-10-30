@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mina Market</string>
+    <string name="error_title">Connection Error</string>
+    <string name="error_message">Unable to load the page. Please check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading...</string>
+</resources>
